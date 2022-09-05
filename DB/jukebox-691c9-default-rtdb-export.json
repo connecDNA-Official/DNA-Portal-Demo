@@ -1,0 +1,972 @@
+{
+  "Favorites": {
+    "Real Life": {
+      "artist": "The Weeknd",
+      "coverImage": "https://firebasestorage.googleapis.com/v0/b/jukebox-691c9.appspot.com/o/AlbumCovers%2FBeauty%20Behind%20the%20Madness%20(Yellow%20and%20Black%20Limited%20Edition).jpg?alt=media&token=ff1c1aa6-a899-4b71-8877-22e131f7d142",
+      "isFavorite": true,
+      "name": "Real Life"
+    },
+    "Stargazing": {
+      "artist": "Travis Scott",
+      "coverImage": "https://firebasestorage.googleapis.com/v0/b/jukebox-691c9.appspot.com/o/AlbumCovers%2FAstroworld.jpg?alt=media&token=7363b2ee-7196-4bd2-8ecf-80a7bec58d1f",
+      "isFavorite": true,
+      "name": "Stargazing"
+    }
+  },
+  "Playlists": [
+    {
+      "coverImages": [
+        "https://firebasestorage.googleapis.com/v0/b/jukebox-691c9.appspot.com/o/AlbumCovers%2FGood%20Kid%20MAAD%20City.jpg?alt=media&token=c4d5a2cc-965c-4ffb-ad49-1dc1d30d7a4f",
+        "https://firebasestorage.googleapis.com/v0/b/jukebox-691c9.appspot.com/o/AlbumCovers%2FDawnFM.png?alt=media&token=e7871ee2-cfcf-4383-8786-951155b61322",
+        "https://firebasestorage.googleapis.com/v0/b/jukebox-691c9.appspot.com/o/AlbumCovers%2FBeauty%20Behind%20the%20Madness%20(Yellow%20and%20Black%20Limited%20Edition).jpg?alt=media&token=ff1c1aa6-a899-4b71-8877-22e131f7d142",
+        "https://firebasestorage.googleapis.com/v0/b/jukebox-691c9.appspot.com/o/AlbumCovers%2FAstroworld.jpg?alt=media&token=7363b2ee-7196-4bd2-8ecf-80a7bec58d1f"
+      ],
+      "duration": "Duration: 4h 33m",
+      "name": "Vibes",
+      "slotStatus": "Slots: Incomplete",
+      "tracks": [
+        {
+          "artist": "Travis Scott",
+          "coverImage": "https://firebasestorage.googleapis.com/v0/b/jukebox-691c9.appspot.com/o/AlbumCovers%2FAstroworld.jpg?alt=media&token=7363b2ee-7196-4bd2-8ecf-80a7bec58d1f",
+          "isFavorite": true,
+          "name": "Carousel Featuring – Frank Ocean"
+        },
+        {
+          "artist": "Travis Scott",
+          "coverImage": "https://firebasestorage.googleapis.com/v0/b/jukebox-691c9.appspot.com/o/AlbumCovers%2FAstroworld.jpg?alt=media&token=7363b2ee-7196-4bd2-8ecf-80a7bec58d1f",
+          "isFavorite": true,
+          "name": "Sicko Mode Featuring – Drake"
+        },
+        {
+          "artist": "Travis Scott",
+          "coverImage": "https://firebasestorage.googleapis.com/v0/b/jukebox-691c9.appspot.com/o/AlbumCovers%2FAstroworld.jpg?alt=media&token=7363b2ee-7196-4bd2-8ecf-80a7bec58d1f",
+          "isFavorite": true,
+          "name": "Stargazing"
+        },
+        {
+          "artist": "The Weeknd",
+          "coverImage": "https://firebasestorage.googleapis.com/v0/b/jukebox-691c9.appspot.com/o/AlbumCovers%2FBeauty%20Behind%20the%20Madness%20(Yellow%20and%20Black%20Limited%20Edition).jpg?alt=media&token=ff1c1aa6-a899-4b71-8877-22e131f7d142",
+          "isFavorite": false,
+          "name": "The Hills"
+        },
+        {
+          "artist": "The Weeknd",
+          "coverImage": "https://firebasestorage.googleapis.com/v0/b/jukebox-691c9.appspot.com/o/AlbumCovers%2FDawnFM.png?alt=media&token=e7871ee2-cfcf-4383-8786-951155b61322",
+          "isFavorite": false,
+          "name": "Dawn FM"
+        },
+        {
+          "artist": "Kendrick Lamar",
+          "coverImage": "https://firebasestorage.googleapis.com/v0/b/jukebox-691c9.appspot.com/o/AlbumCovers%2FGood%20Kid%20MAAD%20City.jpg?alt=media&token=c4d5a2cc-965c-4ffb-ad49-1dc1d30d7a4f",
+          "isFavorite": false,
+          "name": "Bitch, Don't Kill My Vibe"
+        }
+      ]
+    },
+    {
+      "coverImages": [
+        "https://firebasestorage.googleapis.com/v0/b/jukebox-691c9.appspot.com/o/AlbumCovers%2FDawnFM.png?alt=media&token=e7871ee2-cfcf-4383-8786-951155b61322",
+        "https://firebasestorage.googleapis.com/v0/b/jukebox-691c9.appspot.com/o/AlbumCovers%2FDawnFM.png?alt=media&token=e7871ee2-cfcf-4383-8786-951155b61322",
+        "https://firebasestorage.googleapis.com/v0/b/jukebox-691c9.appspot.com/o/AlbumCovers%2FBeauty%20Behind%20the%20Madness%20(Yellow%20and%20Black%20Limited%20Edition).jpg?alt=media&token=ff1c1aa6-a899-4b71-8877-22e131f7d142",
+        "https://firebasestorage.googleapis.com/v0/b/jukebox-691c9.appspot.com/o/AlbumCovers%2FBeauty%20Behind%20the%20Madness%20(Yellow%20and%20Black%20Limited%20Edition).jpg?alt=media&token=ff1c1aa6-a899-4b71-8877-22e131f7d142"
+      ],
+      "duration": "Duration: 4h 33m",
+      "name": "Weeknd Madness",
+      "slotStatus": "Slots: Incomplete",
+      "tracks": [
+        {
+          "artist": "The Weeknd",
+          "coverImage": "https://firebasestorage.googleapis.com/v0/b/jukebox-691c9.appspot.com/o/AlbumCovers%2FBeauty%20Behind%20the%20Madness%20(Yellow%20and%20Black%20Limited%20Edition).jpg?alt=media&token=ff1c1aa6-a899-4b71-8877-22e131f7d142",
+          "isFavorite": true,
+          "name": "Losers Featuring – Labrinth"
+        },
+        {
+          "artist": "The Weeknd",
+          "coverImage": "https://firebasestorage.googleapis.com/v0/b/jukebox-691c9.appspot.com/o/AlbumCovers%2FBeauty%20Behind%20the%20Madness%20(Yellow%20and%20Black%20Limited%20Edition).jpg?alt=media&token=ff1c1aa6-a899-4b71-8877-22e131f7d142",
+          "isFavorite": true,
+          "name": "Real Life"
+        },
+        {
+          "artist": "The Weeknd",
+          "coverImage": "https://firebasestorage.googleapis.com/v0/b/jukebox-691c9.appspot.com/o/AlbumCovers%2FBeauty%20Behind%20the%20Madness%20(Yellow%20and%20Black%20Limited%20Edition).jpg?alt=media&token=ff1c1aa6-a899-4b71-8877-22e131f7d142",
+          "isFavorite": true,
+          "name": "Tell Your Friends"
+        },
+        {
+          "artist": "The Weeknd",
+          "coverImage": "https://firebasestorage.googleapis.com/v0/b/jukebox-691c9.appspot.com/o/AlbumCovers%2FDawnFM.png?alt=media&token=e7871ee2-cfcf-4383-8786-951155b61322",
+          "isFavorite": false,
+          "name": "Dawn FM"
+        },
+        {
+          "artist": "The Weeknd",
+          "coverImage": "https://firebasestorage.googleapis.com/v0/b/jukebox-691c9.appspot.com/o/AlbumCovers%2FDawnFM.png?alt=media&token=e7871ee2-cfcf-4383-8786-951155b61322",
+          "isFavorite": false,
+          "name": "Sacrifice"
+        }
+      ]
+    },
+    {
+      "coverImages": [
+        "https://firebasestorage.googleapis.com/v0/b/jukebox-691c9.appspot.com/o/AlbumCovers%2FTattoo%20You%20(2021%20Remaster)%20LP.jpg?alt=media&token=eca46ba9-a04b-4e95-89a2-cecf8f255b50",
+        "https://firebasestorage.googleapis.com/v0/b/jukebox-691c9.appspot.com/o/AlbumCovers%2FTattoo%20You%20(2021%20Remaster)%20LP.jpg?alt=media&token=eca46ba9-a04b-4e95-89a2-cecf8f255b50",
+        "https://firebasestorage.googleapis.com/v0/b/jukebox-691c9.appspot.com/o/AlbumCovers%2FTattoo%20You%20(2021%20Remaster)%20LP.jpg?alt=media&token=eca46ba9-a04b-4e95-89a2-cecf8f255b50",
+        "https://firebasestorage.googleapis.com/v0/b/jukebox-691c9.appspot.com/o/AlbumCovers%2FTattoo%20You%20(2021%20Remaster)%20LP.jpg?alt=media&token=eca46ba9-a04b-4e95-89a2-cecf8f255b50"
+      ],
+      "duration": "Duration: 4h 33m",
+      "name": "Rolling Stones",
+      "slotStatus": "Slots: Incomplete",
+      "tracks": [
+        {
+          "artist": "The Rolling Stones",
+          "coverImage": "https://firebasestorage.googleapis.com/v0/b/jukebox-691c9.appspot.com/o/AlbumCovers%2FTattoo%20You%20(2021%20Remaster)%20LP.jpg?alt=media&token=eca46ba9-a04b-4e95-89a2-cecf8f255b50",
+          "isFavorite": false,
+          "name": "Heaven – 2021 Remaster"
+        }
+      ]
+    },
+    {
+      "coverImages": [
+        "https://firebasestorage.googleapis.com/v0/b/jukebox-691c9.appspot.com/o/AlbumCovers%2FGood%20Kid%20MAAD%20City.jpg?alt=media&token=c4d5a2cc-965c-4ffb-ad49-1dc1d30d7a4f",
+        "https://firebasestorage.googleapis.com/v0/b/jukebox-691c9.appspot.com/o/AlbumCovers%2FDawnFM.png?alt=media&token=e7871ee2-cfcf-4383-8786-951155b61322",
+        "https://firebasestorage.googleapis.com/v0/b/jukebox-691c9.appspot.com/o/AlbumCovers%2FDMX%20The%20Legacy.png?alt=media&token=72957d75-1b11-43ad-a1e6-55bcbeffb9cd",
+        "https://firebasestorage.googleapis.com/v0/b/jukebox-691c9.appspot.com/o/AlbumCovers%2FAstroworld.jpg?alt=media&token=7363b2ee-7196-4bd2-8ecf-80a7bec58d1f"
+      ],
+      "duration": "Duration: 4h 33m",
+      "name": "Nonstop DJ Mix",
+      "slotStatus": "Slots: Incomplete",
+      "tracks": [
+        {
+          "artist": "Travis Scott",
+          "coverImage": "https://firebasestorage.googleapis.com/v0/b/jukebox-691c9.appspot.com/o/AlbumCovers%2FAstroworld.jpg?alt=media&token=7363b2ee-7196-4bd2-8ecf-80a7bec58d1f",
+          "isFavorite": true,
+          "name": "Sicko Mode Featuring – Drake"
+        },
+        {
+          "artist": "Kendrick Lamar",
+          "coverImage": "https://firebasestorage.googleapis.com/v0/b/jukebox-691c9.appspot.com/o/AlbumCovers%2FGood%20Kid%20MAAD%20City.jpg?alt=media&token=c4d5a2cc-965c-4ffb-ad49-1dc1d30d7a4f",
+          "isFavorite": false,
+          "name": "Poetic Justice"
+        },
+        {
+          "artist": "The Weeknd",
+          "coverImage": "https://firebasestorage.googleapis.com/v0/b/jukebox-691c9.appspot.com/o/AlbumCovers%2FDawnFM.png?alt=media&token=e7871ee2-cfcf-4383-8786-951155b61322",
+          "isFavorite": false,
+          "name": "Dawn FM"
+        },
+        {
+          "artist": "DMX",
+          "coverImage": "https://firebasestorage.googleapis.com/v0/b/jukebox-691c9.appspot.com/o/AlbumCovers%2FDMX%20The%20Legacy.png?alt=media&token=72957d75-1b11-43ad-a1e6-55bcbeffb9cd",
+          "isFavorite": false,
+          "name": "Where The Hood At"
+        }
+      ]
+    },
+    {
+      "coverImages": [
+        "https://firebasestorage.googleapis.com/v0/b/jukebox-691c9.appspot.com/o/AlbumCovers%2FAstroworld.jpg?alt=media&token=7363b2ee-7196-4bd2-8ecf-80a7bec58d1f",
+        "https://firebasestorage.googleapis.com/v0/b/jukebox-691c9.appspot.com/o/AlbumCovers%2FAstroworld.jpg?alt=media&token=7363b2ee-7196-4bd2-8ecf-80a7bec58d1f",
+        "https://firebasestorage.googleapis.com/v0/b/jukebox-691c9.appspot.com/o/AlbumCovers%2FAstroworld.jpg?alt=media&token=7363b2ee-7196-4bd2-8ecf-80a7bec58d1f",
+        "https://firebasestorage.googleapis.com/v0/b/jukebox-691c9.appspot.com/o/AlbumCovers%2FAstroworld.jpg?alt=media&token=7363b2ee-7196-4bd2-8ecf-80a7bec58d1f"
+      ],
+      "duration": "Duration: 4h 33m",
+      "name": "Vibes 2.0",
+      "slotStatus": "Slots: Incomplete",
+      "tracks": [
+        {
+          "artist": "Travis Scott",
+          "coverImage": "https://firebasestorage.googleapis.com/v0/b/jukebox-691c9.appspot.com/o/AlbumCovers%2FAstroworld.jpg?alt=media&token=7363b2ee-7196-4bd2-8ecf-80a7bec58d1f",
+          "isFavorite": true,
+          "name": "Carousel Featuring – Frank Ocean"
+        }
+      ]
+    },
+    {
+      "coverImages": [
+        "https://firebasestorage.googleapis.com/v0/b/jukebox-691c9.appspot.com/o/AlbumCovers%2FAstroworld.jpg?alt=media&token=7363b2ee-7196-4bd2-8ecf-80a7bec58d1f",
+        "https://firebasestorage.googleapis.com/v0/b/jukebox-691c9.appspot.com/o/AlbumCovers%2FAstroworld.jpg?alt=media&token=7363b2ee-7196-4bd2-8ecf-80a7bec58d1f",
+        "https://firebasestorage.googleapis.com/v0/b/jukebox-691c9.appspot.com/o/AlbumCovers%2FAstroworld.jpg?alt=media&token=7363b2ee-7196-4bd2-8ecf-80a7bec58d1f",
+        "https://firebasestorage.googleapis.com/v0/b/jukebox-691c9.appspot.com/o/AlbumCovers%2FAstroworld.jpg?alt=media&token=7363b2ee-7196-4bd2-8ecf-80a7bec58d1f"
+      ],
+      "duration": "Duration: 4h 33m",
+      "name": "Saif",
+      "slotStatus": "Slots: Incomplete",
+      "tracks": [
+        {
+          "artist": "Travis Scott",
+          "coverImage": "https://firebasestorage.googleapis.com/v0/b/jukebox-691c9.appspot.com/o/AlbumCovers%2FAstroworld.jpg?alt=media&token=7363b2ee-7196-4bd2-8ecf-80a7bec58d1f",
+          "isFavorite": false,
+          "name": "Sicko Mode Featuring – Drake"
+        },
+        {
+          "artist": "Travis Scott",
+          "coverImage": "https://firebasestorage.googleapis.com/v0/b/jukebox-691c9.appspot.com/o/AlbumCovers%2FAstroworld.jpg?alt=media&token=7363b2ee-7196-4bd2-8ecf-80a7bec58d1f",
+          "isFavorite": true,
+          "name": "Stargazing"
+        }
+      ]
+    }
+  ],
+  "Rack": [
+    {
+      "name": "Astroworld",
+      "position": 0
+    },
+    {
+      "name": "Dawn FM",
+      "position": 1
+    },
+    {
+      "name": "Beauty Behind the Madness (Yellow and Black Limited Edition)",
+      "position": 2
+    },
+    {
+      "name": "Empty",
+      "position": 3
+    },
+    {
+      "name": "Good Kid: MAAD City",
+      "position": 4
+    },
+    {
+      "name": "Empty",
+      "position": 5
+    },
+    {
+      "name": "Empty",
+      "position": 6
+    },
+    {
+      "name": "Empty",
+      "position": 7
+    },
+    {
+      "name": "Empty",
+      "position": 8
+    },
+    {
+      "name": "Empty",
+      "position": 9
+    },
+    {
+      "name": "Empty",
+      "position": 10
+    },
+    {
+      "name": "Empty",
+      "position": 11
+    },
+    {
+      "name": "Empty",
+      "position": 12
+    },
+    {
+      "name": "Empty",
+      "position": 13
+    },
+    {
+      "name": "1971 The Road Starts Hear",
+      "position": 14
+    }
+  ],
+  "Records": {
+    "1971 The Road Starts Hear": {
+      "Disk 1": {
+        "Face A": {
+          "Intro - Somebody": {
+            "artist": "Aerosmith",
+            "coverImage": "https://firebasestorage.googleapis.com/v0/b/jukebox-691c9.appspot.com/o/AlbumCovers%2F1971%20The%20Road%20Starts%20Hear.png?alt=media&token=1485f12e-26e5-4b0d-8f46-23fa70bf3ca3",
+            "isFavorite": false,
+            "name": "Intro - Somebody"
+          },
+          "Movin' Out": {
+            "artist": "Aerosmith",
+            "coverImage": "https://firebasestorage.googleapis.com/v0/b/jukebox-691c9.appspot.com/o/AlbumCovers%2F1971%20The%20Road%20Starts%20Hear.png?alt=media&token=1485f12e-26e5-4b0d-8f46-23fa70bf3ca3",
+            "isFavorite": false,
+            "name": "Movin' Out"
+          },
+          "Reefer Head Woman": {
+            "artist": "Aerosmith",
+            "coverImage": "https://firebasestorage.googleapis.com/v0/b/jukebox-691c9.appspot.com/o/AlbumCovers%2F1971%20The%20Road%20Starts%20Hear.png?alt=media&token=1485f12e-26e5-4b0d-8f46-23fa70bf3ca3",
+            "isFavorite": false,
+            "name": "Reefer Head Woman"
+          },
+          "Walkin' The Dog": {
+            "artist": "Aerosmith",
+            "coverImage": "https://firebasestorage.googleapis.com/v0/b/jukebox-691c9.appspot.com/o/AlbumCovers%2F1971%20The%20Road%20Starts%20Hear.png?alt=media&token=1485f12e-26e5-4b0d-8f46-23fa70bf3ca3",
+            "isFavorite": false,
+            "name": "Walkin' The Dog"
+          }
+        },
+        "Face B": {
+          "Dream On": {
+            "artist": "Aerosmith",
+            "coverImage": "https://firebasestorage.googleapis.com/v0/b/jukebox-691c9.appspot.com/o/AlbumCovers%2F1971%20The%20Road%20Starts%20Hear.png?alt=media&token=1485f12e-26e5-4b0d-8f46-23fa70bf3ca3",
+            "isFavorite": false,
+            "name": "Dream On"
+          },
+          "Major Barbara": {
+            "artist": "Aerosmith",
+            "coverImage": "https://firebasestorage.googleapis.com/v0/b/jukebox-691c9.appspot.com/o/AlbumCovers%2F1971%20The%20Road%20Starts%20Hear.png?alt=media&token=1485f12e-26e5-4b0d-8f46-23fa70bf3ca3",
+            "isFavorite": false,
+            "name": "Major Barbara"
+          },
+          "Mama Kin": {
+            "artist": "Aerosmith",
+            "coverImage": "https://firebasestorage.googleapis.com/v0/b/jukebox-691c9.appspot.com/o/AlbumCovers%2F1971%20The%20Road%20Starts%20Hear.png?alt=media&token=1485f12e-26e5-4b0d-8f46-23fa70bf3ca3",
+            "isFavorite": false,
+            "name": "Mama Kin"
+          }
+        }
+      }
+    },
+    "Astroworld": {
+      "Disk 1": {
+        "Face A": {
+          "Carousel Featuring – Frank Ocean": {
+            "artist": "Travis Scott",
+            "coverImage": "https://firebasestorage.googleapis.com/v0/b/jukebox-691c9.appspot.com/o/AlbumCovers%2FAstroworld.jpg?alt=media&token=7363b2ee-7196-4bd2-8ecf-80a7bec58d1f",
+            "isFavorite": false,
+            "name": "Carousel Featuring – Frank Ocean"
+          },
+          "Sicko Mode Featuring – Drake": {
+            "artist": "Travis Scott",
+            "coverImage": "https://firebasestorage.googleapis.com/v0/b/jukebox-691c9.appspot.com/o/AlbumCovers%2FAstroworld.jpg?alt=media&token=7363b2ee-7196-4bd2-8ecf-80a7bec58d1f",
+            "isFavorite": false,
+            "name": "Sicko Mode Featuring – Drake"
+          },
+          "Stargazing": {
+            "artist": "Travis Scott",
+            "coverImage": "https://firebasestorage.googleapis.com/v0/b/jukebox-691c9.appspot.com/o/AlbumCovers%2FAstroworld.jpg?alt=media&token=7363b2ee-7196-4bd2-8ecf-80a7bec58d1f",
+            "isFavorite": true,
+            "name": "Stargazing"
+          }
+        },
+        "Face B": {
+          "No Bystanders Featuring – Juice WRLD, Sheck Wes": {
+            "artist": "Travis Scott",
+            "coverImage": "https://firebasestorage.googleapis.com/v0/b/jukebox-691c9.appspot.com/o/AlbumCovers%2FAstroworld.jpg?alt=media&token=7363b2ee-7196-4bd2-8ecf-80a7bec58d1f",
+            "isFavorite": false,
+            "name": "No Bystanders Featuring – Juice WRLD, Sheck Wes"
+          },
+          "RIP Screw Featuring – Swae Lee": {
+            "artist": "Travis Scott",
+            "coverImage": "https://firebasestorage.googleapis.com/v0/b/jukebox-691c9.appspot.com/o/AlbumCovers%2FAstroworld.jpg?alt=media&token=7363b2ee-7196-4bd2-8ecf-80a7bec58d1f",
+            "isFavorite": false,
+            "name": "R.I.P Screw Featuring – Swae Lee"
+          },
+          "Skeletons Featuring – Pharrell Williams, Tame Impala, The Weeknd": {
+            "artist": "Travis Scott",
+            "coverImage": "https://firebasestorage.googleapis.com/v0/b/jukebox-691c9.appspot.com/o/AlbumCovers%2FAstroworld.jpg?alt=media&token=7363b2ee-7196-4bd2-8ecf-80a7bec58d1f",
+            "isFavorite": false,
+            "name": "Skeletons Featuring – Pharrell Williams, Tame Impala, The Weeknd"
+          },
+          "Stop Trying To Be God Featuring – James Blake, Kid Cudi, Philip Bailey, Stevie Wonder": {
+            "artist": "Travis Scott",
+            "coverImage": "https://firebasestorage.googleapis.com/v0/b/jukebox-691c9.appspot.com/o/AlbumCovers%2FAstroworld.jpg?alt=media&token=7363b2ee-7196-4bd2-8ecf-80a7bec58d1f",
+            "isFavorite": false,
+            "name": "Stop Trying To Be God Featuring – James Blake, Kid Cudi, Philip Bailey, Stevie Wonder"
+          }
+        }
+      },
+      "Disk 2": {
+        "Face C": {
+          "5% Tint": {
+            "artist": "Travis Scott",
+            "coverImage": "https://firebasestorage.googleapis.com/v0/b/jukebox-691c9.appspot.com/o/AlbumCovers%2FAstroworld.jpg?alt=media&token=7363b2ee-7196-4bd2-8ecf-80a7bec58d1f",
+            "isFavorite": false,
+            "name": "5% Tint"
+          },
+          "Astrothunder": {
+            "artist": "Travis Scott",
+            "coverImage": "https://firebasestorage.googleapis.com/v0/b/jukebox-691c9.appspot.com/o/AlbumCovers%2FAstroworld.jpg?alt=media&token=7363b2ee-7196-4bd2-8ecf-80a7bec58d1f",
+            "isFavorite": false,
+            "name": "Astrothunder"
+          },
+          "NC-17 Featuring – 21 Savage": {
+            "artist": "Travis Scott",
+            "coverImage": "https://firebasestorage.googleapis.com/v0/b/jukebox-691c9.appspot.com/o/AlbumCovers%2FAstroworld.jpg?alt=media&token=7363b2ee-7196-4bd2-8ecf-80a7bec58d1f",
+            "isFavorite": false,
+            "name": "NC-17 Featuring – 21 Savage"
+          },
+          "Wake Up Featuring – The Weeknd": {
+            "artist": "Travis Scott",
+            "coverImage": "https://firebasestorage.googleapis.com/v0/b/jukebox-691c9.appspot.com/o/AlbumCovers%2FAstroworld.jpg?alt=media&token=7363b2ee-7196-4bd2-8ecf-80a7bec58d1f",
+            "isFavorite": false,
+            "name": "Wake Up Featuring – The Weeknd"
+          },
+          "Yosemite Featuring – Gunna, NAV (7)": {
+            "artist": "Travis Scott",
+            "coverImage": "https://firebasestorage.googleapis.com/v0/b/jukebox-691c9.appspot.com/o/AlbumCovers%2FAstroworld.jpg?alt=media&token=7363b2ee-7196-4bd2-8ecf-80a7bec58d1f",
+            "isFavorite": false,
+            "name": "Yosemite Featuring – Gunna, NAV (7)"
+          }
+        },
+        "Face D": {
+          "Butterfly Effect": {
+            "artist": "Travis Scott",
+            "coverImage": "https://firebasestorage.googleapis.com/v0/b/jukebox-691c9.appspot.com/o/AlbumCovers%2FAstroworld.jpg?alt=media&token=7363b2ee-7196-4bd2-8ecf-80a7bec58d1f",
+            "isFavorite": false,
+            "name": "Butterfly Effect"
+          },
+          "Can't Say Featuring – Don Toliver": {
+            "artist": "Travis Scott",
+            "coverImage": "https://firebasestorage.googleapis.com/v0/b/jukebox-691c9.appspot.com/o/AlbumCovers%2FAstroworld.jpg?alt=media&token=7363b2ee-7196-4bd2-8ecf-80a7bec58d1f",
+            "isFavorite": false,
+            "name": "Can't Say Featuring – Don Toliver"
+          },
+          "Coffee Bean": {
+            "artist": "Travis Scott",
+            "coverImage": "https://firebasestorage.googleapis.com/v0/b/jukebox-691c9.appspot.com/o/AlbumCovers%2FAstroworld.jpg?alt=media&token=7363b2ee-7196-4bd2-8ecf-80a7bec58d1f",
+            "isFavorite": false,
+            "name": "Coffee Bean"
+          },
+          "Houstonfornication": {
+            "artist": "Travis Scott",
+            "coverImage": "https://firebasestorage.googleapis.com/v0/b/jukebox-691c9.appspot.com/o/AlbumCovers%2FAstroworld.jpg?alt=media&token=7363b2ee-7196-4bd2-8ecf-80a7bec58d1f",
+            "isFavorite": false,
+            "name": "Houstonfornication"
+          },
+          "Who? What! Featuring – Quavo, Takeoff": {
+            "artist": "Travis Scott",
+            "coverImage": "https://firebasestorage.googleapis.com/v0/b/jukebox-691c9.appspot.com/o/AlbumCovers%2FAstroworld.jpg?alt=media&token=7363b2ee-7196-4bd2-8ecf-80a7bec58d1f",
+            "isFavorite": false,
+            "name": "Who? What! Featuring – Quavo, Takeoff"
+          }
+        }
+      }
+    },
+    "Beautiful & Damned LP": {
+      "Disk 1": {
+        "Face A": {
+          "But a Dream": {
+            "artist": "G-Eazy",
+            "coverImage": "https://firebasestorage.googleapis.com/v0/b/jukebox-691c9.appspot.com/o/AlbumCovers%2FBeautiful%20%26%20Damned.jpg?alt=media&token=998f32cb-d389-4b75-8ab2-3419c16d62ca",
+            "isFavorite": false,
+            "name": "But a Dream"
+          },
+          "Him & I by G-Eazy & Halsey": {
+            "artist": "G-Eazy",
+            "coverImage": "https://firebasestorage.googleapis.com/v0/b/jukebox-691c9.appspot.com/o/AlbumCovers%2FBeautiful%20%26%20Damned.jpg?alt=media&token=998f32cb-d389-4b75-8ab2-3419c16d62ca",
+            "isFavorite": false,
+            "name": "Him & I by G-Eazy & Halsey"
+          },
+          "Legend": {
+            "artist": "G-Eazy",
+            "coverImage": "https://firebasestorage.googleapis.com/v0/b/jukebox-691c9.appspot.com/o/AlbumCovers%2FBeautiful%20%26%20Damned.jpg?alt=media&token=998f32cb-d389-4b75-8ab2-3419c16d62ca",
+            "isFavorite": false,
+            "name": "Legend"
+          },
+          "Pray for Me": {
+            "artist": "G-Eazy",
+            "coverImage": "https://firebasestorage.googleapis.com/v0/b/jukebox-691c9.appspot.com/o/AlbumCovers%2FBeautiful%20%26%20Damned.jpg?alt=media&token=998f32cb-d389-4b75-8ab2-3419c16d62ca",
+            "isFavorite": false,
+            "name": "Pray for Me"
+          },
+          "Sober (Ft Charlie Puth)": {
+            "artist": "G-Eazy",
+            "coverImage": "https://firebasestorage.googleapis.com/v0/b/jukebox-691c9.appspot.com/o/AlbumCovers%2FBeautiful%20%26%20Damned.jpg?alt=media&token=998f32cb-d389-4b75-8ab2-3419c16d62ca",
+            "isFavorite": false,
+            "name": "Sober (Ft Charlie Puth)"
+          },
+          "The Beautiful & Damned (Ft Zoe Nash)": {
+            "artist": "G-Eazy",
+            "coverImage": "https://firebasestorage.googleapis.com/v0/b/jukebox-691c9.appspot.com/o/AlbumCovers%2FBeautiful%20%26%20Damned.jpg?alt=media&token=998f32cb-d389-4b75-8ab2-3419c16d62ca",
+            "isFavorite": false,
+            "name": "The Beautiful & Damned (Ft Zoe Nash)"
+          }
+        },
+        "Face B": {
+          "Eazy (Ft Son Lux)": {
+            "artist": "G-Eazy",
+            "coverImage": "https://firebasestorage.googleapis.com/v0/b/jukebox-691c9.appspot.com/o/AlbumCovers%2FBeautiful%20%26%20Damned.jpg?alt=media&token=998f32cb-d389-4b75-8ab2-3419c16d62ca",
+            "isFavorite": false,
+            "name": "Eazy (Ft Son Lux)"
+          },
+          "Fly Away (Ft Ugochi)": {
+            "artist": "G-Eazy",
+            "coverImage": "https://firebasestorage.googleapis.com/v0/b/jukebox-691c9.appspot.com/o/AlbumCovers%2FBeautiful%20%26%20Damned.jpg?alt=media&token=998f32cb-d389-4b75-8ab2-3419c16d62ca",
+            "isFavorite": false,
+            "name": "Fly Away (Ft Ugochi)"
+          },
+          "Love Is Gone (Ft Drew Love)": {
+            "artist": "G-Eazy",
+            "coverImage": "https://firebasestorage.googleapis.com/v0/b/jukebox-691c9.appspot.com/o/AlbumCovers%2FBeautiful%20%26%20Damned.jpg?alt=media&token=998f32cb-d389-4b75-8ab2-3419c16d62ca",
+            "isFavorite": false,
+            "name": "Love Is Gone (Ft Drew Love)"
+          },
+          "Mama Always Told Me (Ft Madison Love)": {
+            "artist": "G-Eazy",
+            "coverImage": "https://firebasestorage.googleapis.com/v0/b/jukebox-691c9.appspot.com/o/AlbumCovers%2FBeautiful%20%26%20Damned.jpg?alt=media&token=998f32cb-d389-4b75-8ab2-3419c16d62ca",
+            "isFavorite": false,
+            "name": "Mama Always Told Me (Ft Madison Love)"
+          },
+          "No Less by G-Eazy, SG Lewis & Louis Mattrs": {
+            "artist": "G-Eazy",
+            "coverImage": "https://firebasestorage.googleapis.com/v0/b/jukebox-691c9.appspot.com/o/AlbumCovers%2FBeautiful%20%26%20Damned.jpg?alt=media&token=998f32cb-d389-4b75-8ab2-3419c16d62ca",
+            "isFavorite": false,
+            "name": "No Less by G-Eazy, SG Lewis & Louis Mattrs"
+          }
+        }
+      }
+    },
+    "Beauty Behind the Madness (Yellow and Black Limited Edition)": {
+      "Disk 1": {
+        "Face A": {
+          "Losers Featuring – Labrinth": {
+            "artist": "The Weeknd",
+            "coverImage": "https://firebasestorage.googleapis.com/v0/b/jukebox-691c9.appspot.com/o/AlbumCovers%2FBeauty%20Behind%20the%20Madness%20(Yellow%20and%20Black%20Limited%20Edition).jpg?alt=media&token=ff1c1aa6-a899-4b71-8877-22e131f7d142",
+            "isFavorite": false,
+            "name": "Losers Featuring – Labrinth"
+          },
+          "Real Life": {
+            "artist": "The Weeknd",
+            "coverImage": "https://firebasestorage.googleapis.com/v0/b/jukebox-691c9.appspot.com/o/AlbumCovers%2FBeauty%20Behind%20the%20Madness%20(Yellow%20and%20Black%20Limited%20Edition).jpg?alt=media&token=ff1c1aa6-a899-4b71-8877-22e131f7d142",
+            "isFavorite": true,
+            "name": "Real Life"
+          },
+          "Tell Your Friends": {
+            "artist": "The Weeknd",
+            "coverImage": "https://firebasestorage.googleapis.com/v0/b/jukebox-691c9.appspot.com/o/AlbumCovers%2FBeauty%20Behind%20the%20Madness%20(Yellow%20and%20Black%20Limited%20Edition).jpg?alt=media&token=ff1c1aa6-a899-4b71-8877-22e131f7d142",
+            "isFavorite": false,
+            "name": "Tell Your Friends"
+          }
+        },
+        "Face B": {
+          "Acquainted": {
+            "artist": "The Weeknd",
+            "coverImage": "https://firebasestorage.googleapis.com/v0/b/jukebox-691c9.appspot.com/o/AlbumCovers%2FBeauty%20Behind%20the%20Madness%20(Yellow%20and%20Black%20Limited%20Edition).jpg?alt=media&token=ff1c1aa6-a899-4b71-8877-22e131f7d142",
+            "isFavorite": false,
+            "name": "Acquainted"
+          },
+          "Often": {
+            "artist": "The Weeknd",
+            "coverImage": "https://firebasestorage.googleapis.com/v0/b/jukebox-691c9.appspot.com/o/AlbumCovers%2FBeauty%20Behind%20the%20Madness%20(Yellow%20and%20Black%20Limited%20Edition).jpg?alt=media&token=ff1c1aa6-a899-4b71-8877-22e131f7d142",
+            "isFavorite": false,
+            "name": "Often"
+          },
+          "The Hills": {
+            "artist": "The Weeknd",
+            "coverImage": "https://firebasestorage.googleapis.com/v0/b/jukebox-691c9.appspot.com/o/AlbumCovers%2FBeauty%20Behind%20the%20Madness%20(Yellow%20and%20Black%20Limited%20Edition).jpg?alt=media&token=ff1c1aa6-a899-4b71-8877-22e131f7d142",
+            "isFavorite": false,
+            "name": "The Hills"
+          }
+        }
+      },
+      "Disk 2": {
+        "Face C": {
+          "Can't Feel My Face": {
+            "artist": "The Weeknd",
+            "coverImage": "https://firebasestorage.googleapis.com/v0/b/jukebox-691c9.appspot.com/o/AlbumCovers%2FBeauty%20Behind%20the%20Madness%20(Yellow%20and%20Black%20Limited%20Edition).jpg?alt=media&token=ff1c1aa6-a899-4b71-8877-22e131f7d142",
+            "isFavorite": false,
+            "name": "Can't Feel My Face"
+          },
+          "Earned It (Fifty Shades Of Grey)": {
+            "artist": "The Weeknd",
+            "coverImage": "https://firebasestorage.googleapis.com/v0/b/jukebox-691c9.appspot.com/o/AlbumCovers%2FBeauty%20Behind%20the%20Madness%20(Yellow%20and%20Black%20Limited%20Edition).jpg?alt=media&token=ff1c1aa6-a899-4b71-8877-22e131f7d142",
+            "isFavorite": false,
+            "name": "Earned It (Fifty Shades Of Grey)"
+          },
+          "In The Night": {
+            "artist": "The Weeknd",
+            "coverImage": "https://firebasestorage.googleapis.com/v0/b/jukebox-691c9.appspot.com/o/AlbumCovers%2FBeauty%20Behind%20the%20Madness%20(Yellow%20and%20Black%20Limited%20Edition).jpg?alt=media&token=ff1c1aa6-a899-4b71-8877-22e131f7d142",
+            "isFavorite": false,
+            "name": "In The Night"
+          },
+          "Shameless": {
+            "artist": "The Weeknd",
+            "coverImage": "https://firebasestorage.googleapis.com/v0/b/jukebox-691c9.appspot.com/o/AlbumCovers%2FBeauty%20Behind%20the%20Madness%20(Yellow%20and%20Black%20Limited%20Edition).jpg?alt=media&token=ff1c1aa6-a899-4b71-8877-22e131f7d142",
+            "isFavorite": false,
+            "name": "Shameless"
+          }
+        },
+        "Face D": {
+          "Angel": {
+            "artist": "The Weeknd",
+            "coverImage": "https://firebasestorage.googleapis.com/v0/b/jukebox-691c9.appspot.com/o/AlbumCovers%2FBeauty%20Behind%20the%20Madness%20(Yellow%20and%20Black%20Limited%20Edition).jpg?alt=media&token=ff1c1aa6-a899-4b71-8877-22e131f7d142",
+            "isFavorite": false,
+            "name": "Angel"
+          },
+          "As You Are": {
+            "artist": "The Weeknd",
+            "coverImage": "https://firebasestorage.googleapis.com/v0/b/jukebox-691c9.appspot.com/o/AlbumCovers%2FBeauty%20Behind%20the%20Madness%20(Yellow%20and%20Black%20Limited%20Edition).jpg?alt=media&token=ff1c1aa6-a899-4b71-8877-22e131f7d142",
+            "isFavorite": false,
+            "name": "As You Are"
+          },
+          "Dark Times Featuring – Ed Sheeran": {
+            "artist": "The Weeknd",
+            "coverImage": "https://firebasestorage.googleapis.com/v0/b/jukebox-691c9.appspot.com/o/AlbumCovers%2FBeauty%20Behind%20the%20Madness%20(Yellow%20and%20Black%20Limited%20Edition).jpg?alt=media&token=ff1c1aa6-a899-4b71-8877-22e131f7d142",
+            "isFavorite": false,
+            "name": "Dark Times Featuring – Ed Sheeran"
+          },
+          "Prisoner Featuring – Lana Del Rey": {
+            "artist": "The Weeknd",
+            "coverImage": "https://firebasestorage.googleapis.com/v0/b/jukebox-691c9.appspot.com/o/AlbumCovers%2FBeauty%20Behind%20the%20Madness%20(Yellow%20and%20Black%20Limited%20Edition).jpg?alt=media&token=ff1c1aa6-a899-4b71-8877-22e131f7d142",
+            "isFavorite": false,
+            "name": "Prisoner Featuring – Lana Del Rey"
+          }
+        }
+      }
+    },
+    "Black & Loud James Brown Reimagined By Stro Elliot": {
+      "Disk 1": {
+        "Face A": {
+          "Coal Sweat": {
+            "artist": "Stro Elliot & James Brown",
+            "coverImage": "https://firebasestorage.googleapis.com/v0/b/jukebox-691c9.appspot.com/o/AlbumCovers%2FBlack%20%26%20Loud%20James%20Brown%20Reimagined%20By%20Stro%20Elliot.jpg?alt=media&token=d41cff74-6ef2-4f31-a27b-1a00945bc3f0",
+            "isFavorite": false,
+            "name": "Coal Sweat"
+          },
+          "Get Up Off": {
+            "artist": "Stro Elliot & James Brown",
+            "coverImage": "https://firebasestorage.googleapis.com/v0/b/jukebox-691c9.appspot.com/o/AlbumCovers%2FBlack%20%26%20Loud%20James%20Brown%20Reimagined%20By%20Stro%20Elliot.jpg?alt=media&token=d41cff74-6ef2-4f31-a27b-1a00945bc3f0",
+            "isFavorite": false,
+            "name": "Get Up Off"
+          },
+          "SortaBad ": {
+            "artist": "Stro Elliot & James Brown",
+            "coverImage": "https://firebasestorage.googleapis.com/v0/b/jukebox-691c9.appspot.com/o/AlbumCovers%2FBlack%20%26%20Loud%20James%20Brown%20Reimagined%20By%20Stro%20Elliot.jpg?alt=media&token=d41cff74-6ef2-4f31-a27b-1a00945bc3f0",
+            "isFavorite": false,
+            "name": "SortaBad "
+          },
+          "The Big Purple Donut": {
+            "artist": "Stro Elliot & James Brown",
+            "coverImage": "https://firebasestorage.googleapis.com/v0/b/jukebox-691c9.appspot.com/o/AlbumCovers%2FBlack%20%26%20Loud%20James%20Brown%20Reimagined%20By%20Stro%20Elliot.jpg?alt=media&token=d41cff74-6ef2-4f31-a27b-1a00945bc3f0",
+            "isFavorite": false,
+            "name": "The Big Purple Donut"
+          },
+          "Turn It Up Give It Shrooms": {
+            "artist": "Stro Elliot & James Brown",
+            "coverImage": "https://firebasestorage.googleapis.com/v0/b/jukebox-691c9.appspot.com/o/AlbumCovers%2FBlack%20%26%20Loud%20James%20Brown%20Reimagined%20By%20Stro%20Elliot.jpg?alt=media&token=d41cff74-6ef2-4f31-a27b-1a00945bc3f0",
+            "isFavorite": false,
+            "name": "Turn It Up Give It Shrooms"
+          }
+        },
+        "Face B": {
+          "Black And Loud": {
+            "artist": "Stro Elliot & James Brown",
+            "coverImage": "https://firebasestorage.googleapis.com/v0/b/jukebox-691c9.appspot.com/o/AlbumCovers%2FBlack%20%26%20Loud%20James%20Brown%20Reimagined%20By%20Stro%20Elliot.jpg?alt=media&token=d41cff74-6ef2-4f31-a27b-1a00945bc3f0",
+            "isFavorite": false,
+            "name": "Black And Loud"
+          },
+          "Dragon Pants": {
+            "artist": "Stro Elliot & James Brown",
+            "coverImage": "https://firebasestorage.googleapis.com/v0/b/jukebox-691c9.appspot.com/o/AlbumCovers%2FBlack%20%26%20Loud%20James%20Brown%20Reimagined%20By%20Stro%20Elliot.jpg?alt=media&token=d41cff74-6ef2-4f31-a27b-1a00945bc3f0",
+            "isFavorite": false,
+            "name": "Dragon Pants"
+          },
+          "Machine No Make Sex": {
+            "artist": "Stro Elliot & James Brown",
+            "coverImage": "https://firebasestorage.googleapis.com/v0/b/jukebox-691c9.appspot.com/o/AlbumCovers%2FBlack%20%26%20Loud%20James%20Brown%20Reimagined%20By%20Stro%20Elliot.jpg?alt=media&token=d41cff74-6ef2-4f31-a27b-1a00945bc3f0",
+            "isFavorite": false,
+            "name": "Machine No Make Sex"
+          },
+          "She Made Me Popcorn": {
+            "artist": "Stro Elliot & James Brown",
+            "coverImage": "https://firebasestorage.googleapis.com/v0/b/jukebox-691c9.appspot.com/o/AlbumCovers%2FBlack%20%26%20Loud%20James%20Brown%20Reimagined%20By%20Stro%20Elliot.jpg?alt=media&token=d41cff74-6ef2-4f31-a27b-1a00945bc3f0",
+            "isFavorite": false,
+            "name": "She Made Me Popcorn"
+          },
+          "The Goodest Foot": {
+            "artist": "Stro Elliot & James Brown",
+            "coverImage": "https://firebasestorage.googleapis.com/v0/b/jukebox-691c9.appspot.com/o/AlbumCovers%2FBlack%20%26%20Loud%20James%20Brown%20Reimagined%20By%20Stro%20Elliot.jpg?alt=media&token=d41cff74-6ef2-4f31-a27b-1a00945bc3f0",
+            "isFavorite": false,
+            "name": "The Goodest Foot"
+          }
+        }
+      }
+    },
+    "DMX: The Legacy": {
+      "Disk 1": {
+        "Face A": {
+          "Ready To Meet Him": {
+            "artist": "DMX",
+            "coverImage": "https://firebasestorage.googleapis.com/v0/b/jukebox-691c9.appspot.com/o/AlbumCovers%2FDMX%20The%20Legacy.png?alt=media&token=72957d75-1b11-43ad-a1e6-55bcbeffb9cd",
+            "isFavorite": false,
+            "name": "Ready To Meet Him"
+          },
+          "What These Bitches Want": {
+            "artist": "DMX",
+            "coverImage": "https://firebasestorage.googleapis.com/v0/b/jukebox-691c9.appspot.com/o/AlbumCovers%2FDMX%20The%20Legacy.png?alt=media&token=72957d75-1b11-43ad-a1e6-55bcbeffb9cd",
+            "isFavorite": false,
+            "name": "What These Bitches Want"
+          },
+          "Where The Hood At": {
+            "artist": "DMX",
+            "coverImage": "https://firebasestorage.googleapis.com/v0/b/jukebox-691c9.appspot.com/o/AlbumCovers%2FDMX%20The%20Legacy.png?alt=media&token=72957d75-1b11-43ad-a1e6-55bcbeffb9cd",
+            "isFavorite": false,
+            "name": "Where The Hood At"
+          }
+        },
+        "Face B": {
+          "Get At Me Dog": {
+            "artist": "DMX",
+            "coverImage": "https://firebasestorage.googleapis.com/v0/b/jukebox-691c9.appspot.com/o/AlbumCovers%2FDMX%20The%20Legacy.png?alt=media&token=72957d75-1b11-43ad-a1e6-55bcbeffb9cd",
+            "isFavorite": false,
+            "name": "Get At Me Dog"
+          },
+          "Ruff Ryder's Anthem": {
+            "artist": "DMX",
+            "coverImage": "https://firebasestorage.googleapis.com/v0/b/jukebox-691c9.appspot.com/o/AlbumCovers%2FDMX%20The%20Legacy.png?alt=media&token=72957d75-1b11-43ad-a1e6-55bcbeffb9cd",
+            "isFavorite": false,
+            "name": "Ruff Ryder's Anthem"
+          },
+          "What's My Name": {
+            "artist": "DMX",
+            "coverImage": "https://firebasestorage.googleapis.com/v0/b/jukebox-691c9.appspot.com/o/AlbumCovers%2FDMX%20The%20Legacy.png?alt=media&token=72957d75-1b11-43ad-a1e6-55bcbeffb9cd",
+            "isFavorite": false,
+            "name": "What's My Name"
+          }
+        }
+      },
+      "Disk 2": {
+        "Face C": {
+          "How's It Goin' Down": {
+            "artist": "DMX",
+            "coverImage": "https://firebasestorage.googleapis.com/v0/b/jukebox-691c9.appspot.com/o/AlbumCovers%2FDMX%20The%20Legacy.png?alt=media&token=72957d75-1b11-43ad-a1e6-55bcbeffb9cd",
+            "isFavorite": false,
+            "name": "How's It Goin' Down"
+          },
+          "Party Up": {
+            "artist": "DMX",
+            "coverImage": "https://firebasestorage.googleapis.com/v0/b/jukebox-691c9.appspot.com/o/AlbumCovers%2FDMX%20The%20Legacy.png?alt=media&token=72957d75-1b11-43ad-a1e6-55bcbeffb9cd",
+            "isFavorite": false,
+            "name": "Party Up"
+          },
+          "X Gon' Give It To Ya": {
+            "artist": "DMX",
+            "coverImage": "https://firebasestorage.googleapis.com/v0/b/jukebox-691c9.appspot.com/o/AlbumCovers%2FDMX%20The%20Legacy.png?alt=media&token=72957d75-1b11-43ad-a1e6-55bcbeffb9cd",
+            "isFavorite": false,
+            "name": "X Gon' Give It To Ya"
+          }
+        },
+        "Face D": {
+          "Grand Finale": {
+            "artist": "DMX",
+            "coverImage": "https://firebasestorage.googleapis.com/v0/b/jukebox-691c9.appspot.com/o/AlbumCovers%2FDMX%20The%20Legacy.png?alt=media&token=72957d75-1b11-43ad-a1e6-55bcbeffb9cd",
+            "isFavorite": false,
+            "name": "Grand Finale"
+          },
+          "Slippin'": {
+            "artist": "DMX",
+            "coverImage": "https://firebasestorage.googleapis.com/v0/b/jukebox-691c9.appspot.com/o/AlbumCovers%2FDMX%20The%20Legacy.png?alt=media&token=72957d75-1b11-43ad-a1e6-55bcbeffb9cd",
+            "isFavorite": false,
+            "name": "Slippin'"
+          },
+          "Who We Be": {
+            "artist": "DMX",
+            "coverImage": "https://firebasestorage.googleapis.com/v0/b/jukebox-691c9.appspot.com/o/AlbumCovers%2FDMX%20The%20Legacy.png?alt=media&token=72957d75-1b11-43ad-a1e6-55bcbeffb9cd",
+            "isFavorite": false,
+            "name": "Who We Be"
+          }
+        }
+      }
+    },
+    "Dawn FM": {
+      "Disk 1": {
+        "Face A": {
+          "Dawn FM": {
+            "artist": "The Weeknd",
+            "coverImage": "https://firebasestorage.googleapis.com/v0/b/jukebox-691c9.appspot.com/o/AlbumCovers%2FDawnFM.png?alt=media&token=e7871ee2-cfcf-4383-8786-951155b61322",
+            "isFavorite": false,
+            "name": "Dawn FM"
+          }
+        },
+        "Face B": {
+          "Sacrifice": {
+            "artist": "The Weeknd",
+            "coverImage": "https://firebasestorage.googleapis.com/v0/b/jukebox-691c9.appspot.com/o/AlbumCovers%2FDawnFM.png?alt=media&token=e7871ee2-cfcf-4383-8786-951155b61322",
+            "isFavorite": false,
+            "name": "Sacrifice"
+          }
+        }
+      }
+    },
+    "Good Kid: MAAD City": {
+      "Disk 1": {
+        "Face A": {
+          "Backseat Freestyle": {
+            "artist": "Kendrick Lamar",
+            "coverImage": "https://firebasestorage.googleapis.com/v0/b/jukebox-691c9.appspot.com/o/AlbumCovers%2FGood%20Kid%20MAAD%20City.jpg?alt=media&token=c4d5a2cc-965c-4ffb-ad49-1dc1d30d7a4f",
+            "isFavorite": false,
+            "name": "Backseat Freestyle"
+          },
+          "Bitch, Don't Kill My Vibe": {
+            "artist": "Kendrick Lamar",
+            "coverImage": "https://firebasestorage.googleapis.com/v0/b/jukebox-691c9.appspot.com/o/AlbumCovers%2FGood%20Kid%20MAAD%20City.jpg?alt=media&token=c4d5a2cc-965c-4ffb-ad49-1dc1d30d7a4f",
+            "isFavorite": false,
+            "name": "Bitch, Don't Kill My Vibe"
+          },
+          "Money Trees": {
+            "artist": "Kendrick Lamar",
+            "coverImage": "https://firebasestorage.googleapis.com/v0/b/jukebox-691c9.appspot.com/o/AlbumCovers%2FGood%20Kid%20MAAD%20City.jpg?alt=media&token=c4d5a2cc-965c-4ffb-ad49-1dc1d30d7a4f",
+            "isFavorite": false,
+            "name": "Money Trees"
+          },
+          "Real": {
+            "artist": "Kendrick Lamar",
+            "coverImage": "https://firebasestorage.googleapis.com/v0/b/jukebox-691c9.appspot.com/o/AlbumCovers%2FGood%20Kid%20MAAD%20City.jpg?alt=media&token=c4d5a2cc-965c-4ffb-ad49-1dc1d30d7a4f",
+            "isFavorite": false,
+            "name": "Sing About Me, I'm Dying of Thirst"
+          },
+          "Sherane Aka Master Splinter's Daughter": {
+            "artist": "Kendrick Lamar",
+            "coverImage": "https://firebasestorage.googleapis.com/v0/b/jukebox-691c9.appspot.com/o/AlbumCovers%2FGood%20Kid%20MAAD%20City.jpg?alt=media&token=c4d5a2cc-965c-4ffb-ad49-1dc1d30d7a4f",
+            "isFavorite": false,
+            "name": "Sherane Aka Master Splinter's Daughter"
+          },
+          "Sing About Me, I'm Dying of Thirst": {
+            "artist": "Kendrick Lamar",
+            "coverImage": "https://firebasestorage.googleapis.com/v0/b/jukebox-691c9.appspot.com/o/AlbumCovers%2FGood%20Kid%20MAAD%20City.jpg?alt=media&token=c4d5a2cc-965c-4ffb-ad49-1dc1d30d7a4f",
+            "isFavorite": false,
+            "name": "Sing About Me, I'm Dying of Thirst"
+          },
+          "Swimming Pools (Drank)": {
+            "artist": "Kendrick Lamar",
+            "coverImage": "https://firebasestorage.googleapis.com/v0/b/jukebox-691c9.appspot.com/o/AlbumCovers%2FGood%20Kid%20MAAD%20City.jpg?alt=media&token=c4d5a2cc-965c-4ffb-ad49-1dc1d30d7a4f",
+            "isFavorite": false,
+            "name": "Swimming Pools (Drank)"
+          },
+          "The Art of Peer Pressure": {
+            "artist": "Kendrick Lamar",
+            "coverImage": "https://firebasestorage.googleapis.com/v0/b/jukebox-691c9.appspot.com/o/AlbumCovers%2FGood%20Kid%20MAAD%20City.jpg?alt=media&token=c4d5a2cc-965c-4ffb-ad49-1dc1d30d7a4f",
+            "isFavorite": false,
+            "name": "The Art of Peer Pressure"
+          }
+        },
+        "Face B": {
+          "Black Boy Fly": {
+            "artist": "Kendrick Lamar",
+            "coverImage": "https://firebasestorage.googleapis.com/v0/b/jukebox-691c9.appspot.com/o/AlbumCovers%2FGood%20Kid%20MAAD%20City.jpg?alt=media&token=c4d5a2cc-965c-4ffb-ad49-1dc1d30d7a4f",
+            "isFavorite": false,
+            "name": "Black Boy Fly"
+          },
+          "Compton": {
+            "artist": "Kendrick Lamar",
+            "coverImage": "https://firebasestorage.googleapis.com/v0/b/jukebox-691c9.appspot.com/o/AlbumCovers%2FGood%20Kid%20MAAD%20City.jpg?alt=media&token=c4d5a2cc-965c-4ffb-ad49-1dc1d30d7a4f",
+            "isFavorite": false,
+            "name": "Compton"
+          },
+          "Good Kid": {
+            "artist": "Kendrick Lamar",
+            "coverImage": "https://firebasestorage.googleapis.com/v0/b/jukebox-691c9.appspot.com/o/AlbumCovers%2FGood%20Kid%20MAAD%20City.jpg?alt=media&token=c4d5a2cc-965c-4ffb-ad49-1dc1d30d7a4f",
+            "isFavorite": false,
+            "name": "Good Kid"
+          },
+          "MAAD City": {
+            "artist": "Kendrick Lamar",
+            "coverImage": "https://firebasestorage.googleapis.com/v0/b/jukebox-691c9.appspot.com/o/AlbumCovers%2FGood%20Kid%20MAAD%20City.jpg?alt=media&token=c4d5a2cc-965c-4ffb-ad49-1dc1d30d7a4f",
+            "isFavorite": false,
+            "name": "M.A.A.D City"
+          },
+          "Now or Never": {
+            "artist": "Kendrick Lamar",
+            "coverImage": "https://firebasestorage.googleapis.com/v0/b/jukebox-691c9.appspot.com/o/AlbumCovers%2FGood%20Kid%20MAAD%20City.jpg?alt=media&token=c4d5a2cc-965c-4ffb-ad49-1dc1d30d7a4f",
+            "isFavorite": false,
+            "name": "Now or Never"
+          },
+          "Poetic Justice": {
+            "artist": "Kendrick Lamar",
+            "coverImage": "https://firebasestorage.googleapis.com/v0/b/jukebox-691c9.appspot.com/o/AlbumCovers%2FGood%20Kid%20MAAD%20City.jpg?alt=media&token=c4d5a2cc-965c-4ffb-ad49-1dc1d30d7a4f",
+            "isFavorite": false,
+            "name": "Poetic Justice"
+          },
+          "The Recipe": {
+            "artist": "Kendrick Lamar",
+            "coverImage": "https://firebasestorage.googleapis.com/v0/b/jukebox-691c9.appspot.com/o/AlbumCovers%2FGood%20Kid%20MAAD%20City.jpg?alt=media&token=c4d5a2cc-965c-4ffb-ad49-1dc1d30d7a4f",
+            "isFavorite": false,
+            "name": "The Recipe"
+          }
+        }
+      }
+    },
+    "Tattoo You (2021 Remaster) LP": {
+      "Disk 1": {
+        "Face A": {
+          "Black Limousine – 2021 Remaster": {
+            "artist": "The Rolling Stones",
+            "coverImage": "https://firebasestorage.googleapis.com/v0/b/jukebox-691c9.appspot.com/o/AlbumCovers%2FTattoo%20You%20(2021%20Remaster)%20LP.jpg?alt=media&token=eca46ba9-a04b-4e95-89a2-cecf8f255b50",
+            "isFavorite": false,
+            "name": "Black Limousine – 2021 Remaster"
+          },
+          "Hang Fire – 2021 Remaster": {
+            "artist": "The Rolling Stones",
+            "coverImage": "https://firebasestorage.googleapis.com/v0/b/jukebox-691c9.appspot.com/o/AlbumCovers%2FTattoo%20You%20(2021%20Remaster)%20LP.jpg?alt=media&token=eca46ba9-a04b-4e95-89a2-cecf8f255b50",
+            "isFavorite": false,
+            "name": "Hang Fire – 2021 Remaster"
+          },
+          "Little T&A – 2021 Remaster": {
+            "artist": "The Rolling Stones",
+            "coverImage": "https://firebasestorage.googleapis.com/v0/b/jukebox-691c9.appspot.com/o/AlbumCovers%2FTattoo%20You%20(2021%20Remaster)%20LP.jpg?alt=media&token=eca46ba9-a04b-4e95-89a2-cecf8f255b50",
+            "isFavorite": false,
+            "name": "Little T&A – 2021 Remaster"
+          },
+          "Neighbours – 2021 Remaster": {
+            "artist": "The Rolling Stones",
+            "coverImage": "https://firebasestorage.googleapis.com/v0/b/jukebox-691c9.appspot.com/o/AlbumCovers%2FTattoo%20You%20(2021%20Remaster)%20LP.jpg?alt=media&token=eca46ba9-a04b-4e95-89a2-cecf8f255b50",
+            "isFavorite": false,
+            "name": "Neighbours – 2021 Remaster"
+          },
+          "Slave – 2021 Remaster": {
+            "artist": "The Rolling Stones",
+            "coverImage": "https://firebasestorage.googleapis.com/v0/b/jukebox-691c9.appspot.com/o/AlbumCovers%2FTattoo%20You%20(2021%20Remaster)%20LP.jpg?alt=media&token=eca46ba9-a04b-4e95-89a2-cecf8f255b50",
+            "isFavorite": false,
+            "name": "Slave – 2021 Remaster"
+          },
+          "Start Me Up – 2021 Remaster": {
+            "artist": "The Rolling Stones",
+            "coverImage": "https://firebasestorage.googleapis.com/v0/b/jukebox-691c9.appspot.com/o/AlbumCovers%2FTattoo%20You%20(2021%20Remaster)%20LP.jpg?alt=media&token=eca46ba9-a04b-4e95-89a2-cecf8f255b50",
+            "isFavorite": false,
+            "name": "Start Me Up – 2021 Remaster"
+          }
+        },
+        "Face B": {
+          "Heaven – 2021 Remaster": {
+            "artist": "The Rolling Stones",
+            "coverImage": "https://firebasestorage.googleapis.com/v0/b/jukebox-691c9.appspot.com/o/AlbumCovers%2FTattoo%20You%20(2021%20Remaster)%20LP.jpg?alt=media&token=eca46ba9-a04b-4e95-89a2-cecf8f255b50",
+            "isFavorite": false,
+            "name": "Heaven – 2021 Remaster"
+          },
+          "No Use In Crying – 2021 Remaster": {
+            "artist": "The Rolling Stones",
+            "coverImage": "https://firebasestorage.googleapis.com/v0/b/jukebox-691c9.appspot.com/o/AlbumCovers%2FTattoo%20You%20(2021%20Remaster)%20LP.jpg?alt=media&token=eca46ba9-a04b-4e95-89a2-cecf8f255b50",
+            "isFavorite": false,
+            "name": "No Use In Crying – 2021 Remaster"
+          },
+          "Tops – 2021 Remaster": {
+            "artist": "The Rolling Stones",
+            "coverImage": "https://firebasestorage.googleapis.com/v0/b/jukebox-691c9.appspot.com/o/AlbumCovers%2FTattoo%20You%20(2021%20Remaster)%20LP.jpg?alt=media&token=eca46ba9-a04b-4e95-89a2-cecf8f255b50",
+            "isFavorite": false,
+            "name": "Tops – 2021 Remaster"
+          },
+          "Waiting On A Friend – 2021 Remaster": {
+            "artist": "The Rolling Stones",
+            "coverImage": "https://firebasestorage.googleapis.com/v0/b/jukebox-691c9.appspot.com/o/AlbumCovers%2FTattoo%20You%20(2021%20Remaster)%20LP.jpg?alt=media&token=eca46ba9-a04b-4e95-89a2-cecf8f255b50",
+            "isFavorite": false,
+            "name": "Waiting On A Friend – 2021 Remaster"
+          },
+          "Worried About You – 2021 Remaster": {
+            "artist": "The Rolling Stones",
+            "coverImage": "https://firebasestorage.googleapis.com/v0/b/jukebox-691c9.appspot.com/o/AlbumCovers%2FTattoo%20You%20(2021%20Remaster)%20LP.jpg?alt=media&token=eca46ba9-a04b-4e95-89a2-cecf8f255b50",
+            "isFavorite": false,
+            "name": "Worried About You – 2021 Remaster"
+          }
+        }
+      }
+    }
+  },
+  "Temp": [
+    {
+      "disks": [
+        {
+          "artist": "The Weeknd",
+          "coverImage": "",
+          "diskNumber": "4",
+          "name": "Starboy"
+        }
+      ],
+      "expanded": false,
+      "position": 13
+    }
+  ]
+}

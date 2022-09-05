@@ -1,0 +1,22 @@
+{
+    "Users" : {
+      "0x2354fa3512b3bb1bd1800b4d38893cc4a08e134d" : {
+        "basicInfo" :{
+            "address" : "1",
+        "name" : "Bazil Sajjad",
+        "phone" : "+923214217148",
+        "SocialSecurity":"3520232965801"
+        },
+        "MedicalInfo" :{
+            "BType" : "O+",
+        "VaccineStat" : "some string",
+        "Height" : "Bazil Sajjad"
+        },
+        "Confid" :{
+            "Passport" : "40DD397F-184A-4122-85B8-97A340569C42",
+        "Employee" : "40DD397F-184A-4122-85B8-97A340569C42",
+        "Health" : "40DD397F-184A-4122-85B8-97A340569C42"
+        }
+      }
+    }
+  }
